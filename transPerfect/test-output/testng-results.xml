@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="148709" started-at="2020-12-13T19:49:21Z" finished-at="2020-12-13T19:51:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="148709" started-at="2020-12-13T19:49:21Z" finished-at="2020-12-13T19:51:50Z">
+      <class name="testProject.transPerfect.WahooFitnessTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testProject.transPerfect.WahooFitnessTest@39c0f4a]" name="beforeClass" is-config="true" duration-ms="34120" started-at="2020-12-13T19:49:21Z" finished-at="2020-12-13T19:49:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testWahooFitness()[pri:0, instance:testProject.transPerfect.WahooFitnessTest@39c0f4a]" name="testWahooFitness" duration-ms="113401" started-at="2020-12-13T19:49:56Z" finished-at="2020-12-13T19:51:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWahooFitness -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testProject.transPerfect.WahooFitnessTest@39c0f4a]" name="afterClass" is-config="true" duration-ms="1134" started-at="2020-12-13T19:51:49Z" finished-at="2020-12-13T19:51:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testProject.transPerfect.WahooFitnessTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
